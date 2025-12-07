@@ -1,0 +1,1 @@
+SELECT * FROM appication.bus_info;
